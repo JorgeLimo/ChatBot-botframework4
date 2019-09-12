@@ -4,10 +4,10 @@
     "services": [
         {
             "type": "endpoint",
-            "appId": "dc8c5cdc-4f35-4500-9e71-471f50cdff71",
-            "appPassword": "[wcYoWcr;mjiLREFuo%m}PnxL",
-            "endpoint": "https://itera-chatbot.azurewebsites.net/api/messages",
-            "id": "https://itera-chatbot.azurewebsites.net/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "http://localhost:3978/api/messages",
             "name": "Itera-ChatBot"
         },
         {
