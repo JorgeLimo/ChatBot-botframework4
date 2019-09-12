@@ -1,0 +1,14 @@
+user=Rocio
+bot=itera demo
+
+user: What time is the talk bots?
+bot: Rocio is speaking on bots at 3:00 - 4:00 pm on Monday.
+[Suggestions=Add to List|Learn More]
+
+user: What time is the talk on mobile development?
+bot: we have a few
+bot: Jose Romero is pesaking on Android Develomen at 1-2PM on Monday
+[Suggestions=Add to List|Learn More]
+
+bot: Also, Giorgio Limo is speaking on Progressive web apps in Tuesday All day.
+[Suggestions=Add to List|Learn More]

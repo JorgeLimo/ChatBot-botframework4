@@ -1,0 +1,26 @@
+user=Rocio
+bot=itera demo
+
+user: Who is speaking about bots?
+bot: [Herocard
+     title=Rocio Cordova
+     subtitle=iOS Developer Senior
+     text=Rocio Cordova is a software developer in Ourlimm Software
+     images=https://www.ourlimm.com/views/layout/default/software/images/equipo/rcordova_c.png
+     buttons=Add to List|Learn More]
+
+user: Who is speaking on mobile development?
+[AttachmentLayout=carousel]
+bot: [Herocard
+        title=Jose Romero Quiroz
+        subtitle=Android Developer Senior
+        text=Jose Romero is a software developer in Ourlimm Software
+        images=https://www.ourlimm.com/views/layout/default/software/images/equipo/jose_c.png
+        buttons=Add to List|Learn More]
+     [Herocard
+        title=Giorgio Limo Arispe
+        subtitle=Project Manage
+        text=Giorgio Limo is a software developer in Ourlimm Software
+        images=https://www.ourlimm.com/views/layout/default/software/images/equipo/giorgio_c.png
+        buttons=Add to List|Learn More]
+

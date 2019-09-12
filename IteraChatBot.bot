@@ -1,0 +1,25 @@
+{
+    "name": "IteraChatBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://itera-chatbot.azurewebsites.net/api/messages",
+            "id": "https://itera-chatbot.azurewebsites.net/api/messages",
+            "name": "Itera-ChatBot"
+        },
+        {
+            "type": "qna",
+            "endpointKey": "a4db1cd0-d852-40ca-b3c4-24ee79a8015d",
+            "hostname": "https://iterachatbotqna.azurewebsites.net/qnamaker",
+            "id": "0cf66f71-c211-44a2-aff8-e8ea35a0760d",
+            "kbId": "0cf66f71-c211-44a2-aff8-e8ea35a0760d",
+            "name": "ChatBotIteraQna",
+            "subscriptionKey": "8ccfeaa89e95481bb54337a5f6d32e08"
+        }
+        ],
+    "padlock": "",
+    "version": "2.0"
+}

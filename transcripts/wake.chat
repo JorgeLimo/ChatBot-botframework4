@@ -1,0 +1,13 @@
+user=Rocio
+bot=itera demo
+
+user: hello
+bot: ¡Hola! Bienvenido a la demo del chat Itera.
+
+user: Rocio
+bot= ¡Hola Rocio! Aqui tienes algunos ejemplos que te pueden ayudar
+* Buscar soporte sobre equipos (Hardware).
+* Buscar soporte sobre softwares (Aplicaciones).
+* Buscar soporte de internet.
+
+bot: Escribe lo que necesites, si no entiendes alguanas cosas puedes escribir la palabras "Ayuda" y yo te ayudare.

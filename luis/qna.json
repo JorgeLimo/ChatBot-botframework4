@@ -1,0 +1,34 @@
+{
+  "urls": [],
+  "qnaList": [
+    {
+      "id": 0,
+      "answer": "* demo1\r\n* demo2\r\n* demo3",
+      "source": "custom editorial",
+      "questions": [
+        "what can i expect?"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 0,
+      "answer": "demo text large",
+      "source": "custom editorial",
+      "questions": [
+        "who is produccing itera?"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 0,
+      "answer": "demo text large loerm reom.\r\nlorem lorem sec line....",
+      "source": "custom editorial",
+      "questions": [
+        "who speaks at itera?"
+      ],
+      "metadata": []
+    }
+  ],
+  "files": [],
+  "name": "ChatBotIteraQna"
+}

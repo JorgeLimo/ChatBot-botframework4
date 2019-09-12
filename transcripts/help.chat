@@ -1,0 +1,11 @@
+user=Rocio
+bot=itera demo
+
+user: ayuda
+bot:[Suggestions=I want to know about a topic|I want to know a speaker|I want to know about a venue]
+
+user: I want to know about a topic
+bot: You can ask:
+* _Who is speaking about bots?_
+* _Where is the bot framework talk?_
+* _What time is the bot framework talk?_
