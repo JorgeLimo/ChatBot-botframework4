@@ -8,9 +8,6 @@ import { config } from 'dotenv';
 config();
 const botConfig = BotConfiguration.loadSync("./IteraChatBot.bot",process.env.BOT_FILE_SECRET);
 
-console.log(botConfig);
-
-
 const server = restify.createServer();
 server.listen(process.env.port || process.env.PORT || 3978, () => {
     console.log(server.name + " listening on " + server.url);
@@ -26,8 +23,6 @@ const qnAMaker = new QnAMaker({
     endpointKey : (<IQnAService>botConfig.findServiceByNameOrId("ChatBotIteraQna")).endpointKey,
     host : (<IQnAService>botConfig.findServiceByNameOrId("ChatBotIteraQna")).hostname
 });
-
-console.log(qnAMaker);
 
 const echo : ConfBot = new ConfBot(qnAMaker);
 
