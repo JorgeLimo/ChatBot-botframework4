@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/restify": "^7.2.12",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "botbuilder": "^4.5.3",
     "botbuilder-ai": "^4.5.3",
     "botbuilder-dialogs": "^4.5.3",
